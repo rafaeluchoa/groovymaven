@@ -6,7 +6,7 @@
 	<artifactId>groovymaven</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Groovy Maven Webapp</name>
+	<name>Groovy Maven</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>
